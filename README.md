@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou a Vivian 👋
 
-<!--
-**vivianavelino/vivianavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Estudante de Análise de Dados
+💻 Estudante de Desenvolvimento Web Full Stack
 
-Here are some ideas to get you started:
+Tenho interesse em transformar dados em informações que ajudem a responder problemas de negócio e apoiar decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo projetos e estudos envolvendo análise, tratamento e visualização de dados, enquanto continuo minha formação em Desenvolvimento Web Full Stack.
+
+## 🛠️ Tecnologias
+
+### 📊 Dados
+
+* Python
+* Pandas
+* SQL
+* Excel
+* Matplotlib
+
+### 💻 Desenvolvimento Web
+
+* HTML
+* CSS
+* JavaScript
+
+### 📚 Atualmente estudando
+
+* Análise de Dados
+* SQL
+* Python
+* Desenvolvimento Web Full Stack
+* CS50x
+
+## 🚀 Projetos
+
+Meus principais projetos de análise de dados estão disponíveis nos repositórios deste perfil.
