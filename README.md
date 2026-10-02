@@ -25,11 +25,9 @@ Atualmente estou desenvolvendo projetos e estudos envolvendo análise, tratament
 
 ### 📚 Atualmente estudando
 
-* Análise de Dados
-* SQL
-* Python
+* Análise de Dados — Python, Pandas, SQL e visualização
 * Desenvolvimento Web Full Stack
-* CS50x
+* CS50x — Harvard
 
 ## 🚀 Projetos
 
