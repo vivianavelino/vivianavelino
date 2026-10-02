@@ -17,13 +17,13 @@ Atualmente estou desenvolvendo projetos e estudos envolvendo análise, tratament
 * Excel
 * Matplotlib
 
-### 💻 Desenvolvimento Web
+### Desenvolvimento Web
 
 * HTML
 * CSS
 * JavaScript
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 * Análise de Dados — Python, Pandas, SQL e visualização
 * Desenvolvimento Web Full Stack
