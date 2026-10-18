@@ -7,7 +7,7 @@ Tenho interesse em transformar dados em informações que ajudem a responder pro
 
 Atualmente estou desenvolvendo projetos e estudos envolvendo análise, tratamento e visualização de dados, enquanto continuo minha formação em Desenvolvimento Web Full Stack.
 
-## Tecnologias
+## ## Tecnologias e ferramentas
 
 ### Dados
 
